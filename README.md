@@ -32,6 +32,7 @@ Depending on the platform and challenge, I’ve used:
 
 - Python 🐍
 - C++
+- bash
 
 
 > Note: File and folder naming may evolve over time as I improve the organization.
